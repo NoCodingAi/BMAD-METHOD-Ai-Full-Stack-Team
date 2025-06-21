@@ -7,7 +7,8 @@
 
 **AI-Powered Agile Development Framework** - Transform your software development with specialized AI agents that work as your complete Agile team.
 
-📺 **[Subscribe to BMadCode on YouTube](https://www.youtube.com/@BMadCode?sub_confirmation=1)** - V4 walkthrough and comprehensive guide coming soon!
+📺 **[BMadCode Guide on YouTube](https://www.youtube.com/watch?v=l9iqJIRZzkA)** - V4 walkthrough and comprehensive guide!
+**https://www.youtube.com/watch?v=l9iqJIRZzkA** 
 
 ⭐ **If you find this project helpful or useful, please give it a star!** It helps others discover BMAD-METHOD and you will be notified of updates!
 
